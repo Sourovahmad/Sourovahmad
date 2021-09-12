@@ -25,7 +25,7 @@
 
 ### Im Specialized At:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://rawcdn.githack.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" />][twitter]
+[<img align="left" alt="Visual Studio Code" width="100%" src="https://rawcdn.githack.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" />][twitter]
 
 <br>
 
