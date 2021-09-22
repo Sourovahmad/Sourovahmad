@@ -54,6 +54,7 @@
 <br />
 <br />
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sourovahmad&layout=compact&hide_border=true)
 
 [website]: https://sarlex.netlify.app
 [twitter]: https://twitter.com/sourovahmad7
