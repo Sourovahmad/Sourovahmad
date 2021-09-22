@@ -11,7 +11,7 @@
 ## I'm a Programmer, Developer (Laravel), and Learner!!
 - Working with Laravel since 2018
 - 🔭 Im just Trying To build our Software Company [Sarlex Technologies][website]!
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other Developers
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - 🥅 Fun Fact: Contribute more to Open Source projects
