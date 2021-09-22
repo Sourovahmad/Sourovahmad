@@ -1,6 +1,6 @@
 ### Hi there, I'm Sourov
 
-- **CEO** [Sarlex Technologies][website] 👋
+-  [Sarlex Technologies][website] 👋
 - **PHP Laravel Developer**
 
  <br>
