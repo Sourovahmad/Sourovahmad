@@ -56,7 +56,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sourovahmad&layout=compact&hide_border=true)
 
-![SourovAhmad's github stats](https://github-readme-stats.vercel.app/api?username=JustinByrne&show_icons=true&count_private=true&hide_border=true)
+![SourovAhmad's github stats](https://github-readme-stats.vercel.app/api?username=sourovahmad&show_icons=true&count_private=true&hide_border=true)
 
 
 
