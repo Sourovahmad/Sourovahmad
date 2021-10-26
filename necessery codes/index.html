@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <!-- Bootstrap CSS -->
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC"
+      crossorigin="anonymous"
+    />
+    <link
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css"
+      rel="stylesheet"
+    />
+    
+
+
+<style>
+  #bottomNavSection{
+    min-height: 53px;
+    width: auto;
+    background-color: rgb(9, 67, 100);
+    opacity: .9;
+    border-radius: 1em;
+
+  position: fixed;
+  left: 50%;
+  bottom: 10px;
+  transform: translate(-50%, -50%);
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
+
+.singleBox{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.navItems{
+    border-right: 1px solid black;
+}
+.navItems:last-child{
+    border:none;
+}
+.navItems i{
+    font-size: 20px;
+}
+
+.singleBox p{
+    width:max-content;
+}
+
+@media (max-width: 800px) {
+    .singleBox p{
+       display: none;
+    }
+  }
+</style>
+
+
+
+
+
+    <title>Bottom Nav</title>
+  </head>
+
+  <section id="bottomNavSection" class="text-light">
+    <div class="navItems">
+      <div
+        class="dropdown-toggle singleBox m-2"
+        id="drop_up_1"
+        data-bs-toggle="dropdown"
+        aria-expanded="false"
+      >
+         <i class="fas fa-home"></i>
+          <p class="mb-0 ms-2">Drop Up</p>
+  
+      </div>
+
+      <ul class="dropdown-menu" aria-labelledby="drop_up_1">
+        <li><a class="dropdown-item" href="#">first</a></li>
+        <li><a class="dropdown-item" href="#">Second </a></li>
+        <li><a class="dropdown-item" href="#">third </a></li>
+      </ul>
+    </div>
+
+
+    <div class="navItems">
+      <a href="#" class="text-decoration-none text-light">
+        <div class="singleBox m-2">
+            <i class="fas fa-theater-masks"></i>
+            <p class="mb-0 ms-2">Lorem ipsum </p>
+        </div>
+      </a>
+    </div>
+
+
+    <div class="navItems">
+      <a href="#" class="text-decoration-none text-light">
+        <div class="singleBox m-2">
+            <i class="fas fa-theater-masks"></i>
+            <p class="mb-0 ms-2">Lorem ipsum </p>
+        </div>
+      </a>
+    </div>
+
+
+    <div class="navItems">
+      <a href="#" class="text-decoration-none text-light">
+        <div class="singleBox m-2">
+            <i class="fas fa-theater-masks"></i>
+            <p class="mb-0 ms-2">Lorem ipsum si </p>
+        </div>
+      </a>
+    </div>
+
+
+    <div class="navItems">
+      <a href="#" class="text-decoration-none text-light">
+        <div class="singleBox m-2">
+            <i class="fas fa-theater-masks"></i>
+            <p class="mb-0 ms-2">Lorem ipsum </p>
+        </div>
+      </a>
+    </div>
+
+
+    <div class="navItems">
+      <a href="#" class="text-decoration-none text-light">
+        <div class="singleBox m-2">
+            <i class="fas fa-theater-masks"></i>
+            <p class="mb-0 ms-2">Lorem ipsum</p>
+        </div>
+      </a>
+    </div>
+
+
+    <div class="navItems">
+      <a href="#" class="text-decoration-none text-light">
+        <div class="singleBox m-2">
+            <i class="fas fa-theater-masks"></i>
+            <p class="mb-0 ms-2">Lorem ipsum si </p>
+        </div>
+      </a>
+    </div>
+
+
+    <div class="navItems">
+      <a href="#" class="text-decoration-none text-light">
+        <div class="singleBox m-2">
+            <i class="fas fa-theater-masks"></i>
+            <p class="mb-0 ms-2">Lorem ipsum </p>
+        </div>
+      </a>
+    </div>
+
+
+    <div class="navItems">
+      <a href="#" class="text-decoration-none text-light">
+        <div class="singleBox m-2">
+            <i class="fas fa-theater-masks"></i>
+            <p class="mb-0 ms-2">Lorem ipsum </p>
+        </div>
+      </a>
+    </div>
+
+
+ 
+
+
+
+
+  </section>
+
+  
+
+  <body>
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
+      crossorigin="anonymous"
+    ></script>
+  </body>
+</html>
