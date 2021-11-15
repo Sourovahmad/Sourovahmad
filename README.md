@@ -10,7 +10,7 @@
 
 ## I'm a Programmer, Developer (Laravel), and Learner!!
 - Working with Laravel since 2018
-- 🔭 Im just Trying To build our Software Company [Sarlex Technologies][website]!
+- 🔭 Im just Trying To build our Software Company [Sarlex Org][website]!
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other Developers
 - 🥅 2021 Goals: Contribute more to Open Source projects
@@ -62,7 +62,7 @@
 
 - [Laravel unzipper][package_one]
 
-[website]: https://sarlex.netlify.app
+[website]: https://sarlex.org
 [twitter]: https://twitter.com/sourovahmad7
 [youtube]: https://www.youtube.com/channel/UCK2NAOE9ZrbWcx4DAgMcZxw
 [instagram]: https://www.instagram.com/sourov.ahmad
