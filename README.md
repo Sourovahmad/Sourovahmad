@@ -1,20 +1,12 @@
 ### Hi there, I'm Sourov
 
--  [Sarlex Technologies][website] 👋
-- **PHP Laravel Developer**
 
  <br>
 
 [![Website](https://img.shields.io/website?label=sourovahmad.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://sourovahmad.netlify.app)
 [![Twitter Follow](https://img.shields.io/twitter/follow/sourovahmad7?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
-## I'm a Programmer, Developer (Laravel), and Learner!!
-- Working with Laravel since 2018
-- 🔭 Im just Trying To build our Software Company [Sarlex Org][website]!
-- 🌱 I’m currently learning everything
-- 👯 I’m looking to collaborate with other Developers
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- 🥅 Fun Fact: Contribute more to Open Source projects
+
 
 ### Connect with me:
 
