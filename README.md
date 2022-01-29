@@ -53,6 +53,7 @@
 ### My Laravel Packages
 
 - [Laravel unzipper][package_one]
+- [Dashboard Ui ][https://github.com/Sourovahmad/laravel-package-2--simple-ui]
 
 [website]: https://sarlex.org
 [twitter]: https://twitter.com/sourovahmad7
