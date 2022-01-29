@@ -20,7 +20,7 @@
 
 ### Im Specialized At:
 
-[<img align="left" alt="Visual Studio Code" width="100%" src="https://rawcdn.githack.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" />][twitter]
+[<img align="center" alt="Visual Studio Code" width="70%" src="https://i.ibb.co/w0QyP5V/Group-1.png" alt="Group-1" />][twitter]
 
 <br>
 
@@ -53,11 +53,13 @@
 ### My Laravel Packages
 
 - [Laravel unzipper][package_one]
-- [Dashboard Ui ][https://github.com/Sourovahmad/laravel-package-2--simple-ui]
+- [Dashboard Ui][package_two]
 
-[website]: https://sarlex.org
+[website]: https://sourovahmad.netlify.app
+[github]: https://github.com/sourovahmad
 [twitter]: https://twitter.com/sourovahmad7
 [youtube]: https://www.youtube.com/channel/UCK2NAOE9ZrbWcx4DAgMcZxw
 [instagram]: https://www.instagram.com/sourov.ahmad
 [linkedin]: https://www.linkedin.com/in/sourov-ahmad-50574120a
 [package_one]: https://github.com/Sourovahmad/laravel-unzipper
+[package_two]: https://github.com/Sourovahmad/laravel-package-2--simple-ui
