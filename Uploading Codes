@@ -10,3 +10,12 @@ php artisan config:cache
 php artisan route:cache
 php artisan view:cache
 php artisan storage:link
+
+
+
+
+
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteRule ^(.*)$ public/$1 [L]
+</IfModule>
