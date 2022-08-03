@@ -1,0 +1,17 @@
+     add this code to .htaccess 
+
+RewriteCond %{HTTP:Authorization} ^(.*)
+RewriteRule ^(.*) - [E=HTTP_AUTHORIZATION:%1]
+
+
+add those on wp config file 
+define('JWT_AUTH_SECRET_KEY', 'secret');
+define('JWT_AUTH_CORS_ENABLE', true);
+
+
+get token api endpoint 
+
+localhost/wordpress/wp-json/jwt-auth/v1/token (post with username and pass)
+
+
+
