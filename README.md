@@ -17,11 +17,7 @@
 
 <br />
 
-### Im Specialized At:
 
-[<img align="center" alt="Visual Studio Code" width="70%" src="https://i.ibb.co/w0QyP5V/Group-1.png" alt="Group-1" />][twitter]
-
-<br>
 
 ### Language And Tools I Use:
 
