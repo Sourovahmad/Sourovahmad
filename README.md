@@ -3,9 +3,6 @@
 
  <br>
 
-[![Website](https://img.shields.io/website?label=sourovahmad.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://sourovahmad.netlify.app)
-
-
 
 
 ### Connect with me:
