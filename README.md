@@ -1,57 +1,76 @@
-### Hi there, I'm Sourov
+<h1 align="center">Hi 👋, I'm Sourov Ahmad</h1>
+<h3 align="center">A passionate Full Stack Developer from Italy 🇮🇹</h3>
 
+<p align="center">
+  <a href="https://sourov.info" target="_blank"><img src="https://img.shields.io/badge/Website-%2300c2ff?style=for-the-badge&logo=firefox-browser&logoColor=white" /></a>
+  /></a>
+  <a href="[https://www.youtube.com/channel/UCK2NAOE9ZrbWcx4DAgMcZxw](https://www.youtube.com/@airovs)" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+ 
+</p>
 
- <br>
+---
 
+### 🚀 About Me
+- 🔭 I’m currently working at **Bilin GmbH**
+- 🌱 I’m exploring **Rust** and building powerful **Golang** backends
+- 👨‍💻 Most of my projects are available on my [GitHub](https://github.com/sourovahmad)
+- 🧩 I love building tools, reusable packages, and snappy UIs
+- 📫 How to reach me: **sourov.okk3@gmail.com**
 
+---
 
-### Connect with me:
+### 🛠️ Languages and Tools
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/denojs/denojs-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" />
+</p>
 
-<br />
+---
 
+### 🧰 Featured Projects
 
+#### 📦 Laravel Packages
+- 🔧 [Laravel Unzipper](https://github.com/Sourovahmad/laravel-unzipper): Easily extract ZIP archives directly in Laravel.
+- 💻 [Dashboard UI](https://github.com/Sourovahmad/laravel-package-2--simple-ui): A beautiful, reusable dashboard UI scaffolding package.
 
-### Language And Tools I Use:
+#### 🌐 Web Apps
+- ✨ [Portfolio Site](https://sourov.info): Sleek, fast portfolio built with modern tools.
+- 📊 [Mini CRM (Coming Soon)](): Lightweight Laravel + React based CRM for freelancers & teams.
+- ⚙️ [Go REST API Boilerplate](https://github.com/Sourovahmad/go-api-boilerplate) *(Optional)*: Production-ready REST backend setup with Gin + GORM.
 
-[<img align="left" alt="Visual Studio Code" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/220px-PHP-logo.svg.png" />][twitter]
-[<img align="left" alt="HTML5" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][twitter]
-[<img align="left" alt="CSS3" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][twitter]
-[<img align="left" alt="Sass" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][twitter]
-[<img align="left" alt="JavaScript" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][twitter]
-[<img align="left" alt="React" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][twitter]
+---
 
+### 📊 GitHub Stats
 
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourovahmad&layout=compact&hide_border=true&langs_count=10" alt="Top Languages" />
+</p>
 
-[<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />][twitter]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][twitter]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][twitter]
+---
 
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][twitter]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][twitter]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"/>][twitter]
+### 🤝 Let's Connect
+If you like my work or want to collaborate on something cool, don’t hesitate to reach out!
 
-<br />
-<br />
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sourovahmad&layout=compact&hide_border=true)
-
-<!-- ![SourovAhmad's github stats](https://github-readme-stats.vercel.app/api?username=sourovahmad&show_icons=true&count_private=true&hide_border=true) -->
-
-### My Laravel Packages
-
-- [Laravel unzipper][package_one]
-- [Dashboard Ui][package_two]
-
-[website]: https://sourovahmad.netlify.app
-[github]: https://github.com/sourovahmad
-[twitter]: https://twitter.com/sourovahmad7
+<!-- Link Definitions -->
+[website]: https://sourov.info
 [youtube]: https://www.youtube.com/channel/UCK2NAOE9ZrbWcx4DAgMcZxw
 [instagram]: https://www.instagram.com/sourov.ahmad
 [linkedin]: https://www.linkedin.com/in/sourov-ahmad-50574120a
+[twitter]: https://twitter.com/sourovahmad7
 [package_one]: https://github.com/Sourovahmad/laravel-unzipper
 [package_two]: https://github.com/Sourovahmad/laravel-package-2--simple-ui
