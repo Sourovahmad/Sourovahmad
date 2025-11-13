@@ -1,7 +1,7 @@
 <div align="center">
 
 
-<!-- Dynamic Header with Typing Animation there is nothing lets make a commit again-->
+<!-- Dynamic Header with Typing Animation there is nothing lets make a commit again another commit-->
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&pause=1000&color=00D9FF&background=000000&center=true&vCenter=true&width=1000&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Sourov+Ahmad;Full+Stack+Developer+%F0%9F%9A%80;Rust+%26+Go+Enthusiast+%F0%9F%A6%80;Building+the+Future+%F0%9F%8C%8C" alt="Typing SVG" />
 
 <!-- Animated Wave -->
