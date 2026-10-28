@@ -2,63 +2,47 @@
 
 Backend developer in Italy. Years of web work behind me, C in front of me.
 
-```c
-/* ************************************************************************** */
-/*                                                                            */
-/*                                                        :::      ::::::::   */
-/*   sourov.c                                           :+:      :+:    :+:   */
-/*                                                    +:+ +:+         +:+     */
-/*   By: sourov <sourov.okk3@gmail.com>             +#+  +:+       +#+        */
-/*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2020/04/28 12:13:19 by sourov            #+#    #+#             */
-/*   Updated: every commit         by sourov          ###   ########.fr       */
-/*                                                                            */
-/* ************************************************************************** */
+```makefile
+# Makefile — builds one developer, from source. No binaries shipped.
 
-#include <unistd.h>
+NAME     = sourov
+CC       = curiosity
+CFLAGS   = -Wall -Wextra -Werror -fno-shortcuts
+LOCATION = Italy
 
-typedef struct s_dev
-{
-	char	*name;
-	char	*base;
-	char	*years_of;
-	char	*learning;
-	char	*right_now;
-	char	*believes;
-}	t_dev;
+SRC      = years_of_php.c \
+           javascript_frontends.c \
+           go_backends.c \
+           rust_experiments.c \
+           c_from_scratch.c   # current: pointers, memory, no libc
 
-int	main(void)
-{
-	t_dev	me;
+all: $(NAME)
 
-	me.name = "Sourov Ahmad";
-	me.base = "Italy";
-	me.years_of = "PHP, JavaScript, shipping web backends";
-	me.learning = "Go, Rust";
-	me.right_now = "C at 42: pointers, memory, no libc, no mercy";
-	me.believes = "boring tools that work > new tools that impress";
-	write(1, "hi\n", 3);
-	return (0);
-}
+$(NAME): $(SRC)
+	$(CC) $(CFLAGS) $(SRC) -o $(NAME)
+	@echo "builds clean. reads clean. ships."
+
+clean:
+	rm -f hype shortcuts unread_tutorials
+
+rebuild: clean all   # has run more than once. works every time.
+
+giving_up:
+	@echo "make: *** No rule to make target 'giving_up'.  Stop."
+
+.PHILOSOPHY: boring tools that work > new tools that impress
 ```
 
-## Journey
-
-```
-$ git log --oneline --reverse sourov
-
-a0b1c2d  init: HTML, CSS, first pages for real clients
-3f8e21a  PHP: shipping backends for years, Laravel most of them
-9c4d7b2  JavaScript: React and Svelte on the way
-d1e5f06  Go, Rust: curiosity about what runs underneath
-4242424  (HEAD -> main) C at 42: strings, pointers, memory, all by hand
+```console
+$ make giving_up
+make: *** No rule to make target 'giving_up'.  Stop.
 ```
 
 ## Work
 
 | | |
 |---|---|
-| [42 Piscine in C](https://github.com/Sourovahmad/exercies) | Every exercise written from scratch. No libc, norm-checked. |
+| [C from scratch](https://github.com/Sourovahmad/exercies) | 42 Piscine. Every exercise written by hand: strings, pointers, memory, recursion. |
 | [signal-zero-app](https://github.com/Sourovahmad/signal-zero-app) | Deterministic orbital emergency simulator, desktop and web. |
 | [sourov.info](https://sourov.info) | Personal site. |
 
@@ -66,4 +50,4 @@ d1e5f06  Go, Rust: curiosity about what runs underneath
 
 [Website](https://sourov.info) · [LinkedIn](https://www.linkedin.com/in/sourov-ahmad-50574120a/) · [YouTube](https://www.youtube.com/@airovs) · [Email](mailto:sourov.okk3@gmail.com)
 
-<sub>No badges, no widgets, no animations. Just the code. It will look the same in ten years.</sub>
+<sub>No badges, no widgets, no animations. This page needs nothing but Markdown, so it will look the same in ten years. `make rebuild` whenever necessary.</sub>
