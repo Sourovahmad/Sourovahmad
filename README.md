@@ -1,37 +1,45 @@
-# Sourov Ahmad
+```
+SOUROV(1)                     General Commands Manual                    SOUROV(1)
 
-Software developer based in Italy. I build backend systems and web applications, and I care about code that is simple, readable, and still works years later.
+NAME
+     sourov - software developer; backend by trade, systems by curiosity
 
-Most of my professional work has been in PHP/Laravel and JavaScript. I am now going deeper into systems programming with C, Go, and Rust.
+SYNOPSIS
+     sourov [--systems] [--backend] [--frontend] <problem>
 
-## What I work with
+DESCRIPTION
+     Builds web applications and the services behind them. Based in Italy.
+     Spent years in PHP and JavaScript. Now going one layer lower at a
+     time: C first, then Go and Rust.
 
-**Backend**
-PHP, Laravel, Go, REST APIs, authentication, MySQL, PostgreSQL, Redis
+     Currently in the 42 Piscine, writing C with no libc, no safety net,
+     and a norm checker that rejects a line for one extra space.
 
-**Frontend**
-JavaScript, TypeScript, React, Svelte, HTML, CSS
+     Prefers boring tools that work over new tools that impress. Writes
+     code the next person can read without a walkthrough.
 
-**Systems and tooling**
-C, Rust, Linux, Bash, Docker, Git
+OPTIONS
+     --systems      C, Rust, Linux, Bash, Docker, Git
+     --backend      Go, PHP, REST APIs, MySQL, PostgreSQL, Redis
+     --frontend     JavaScript, TypeScript, React, Svelte
 
-## Selected work
+EXAMPLES
+     exercies            42 Piscine in C: strings, pointers, memory,
+                         recursion, all by hand
+     signal-zero-app     deterministic orbital emergency simulator
+     sourov.info         personal website
 
-- [laravel-unzipper](https://github.com/Sourovahmad/laravel-unzipper) — Laravel package that extracts a ZIP archive in a single call.
-- [laravel-package-2--simple-ui](https://github.com/Sourovahmad/laravel-package-2--simple-ui) — Dashboard scaffolding package for Laravel.
-- [signal-zero-app](https://github.com/Sourovahmad/signal-zero-app) — Deterministic orbital emergency simulator for desktop and web.
-- [sourov.info](https://sourov.info) — Personal website.
+EXIT STATUS
+     Returns 0 when the problem is solved. Never returns silently on error.
 
-## How I work
+BUGS
+     Occasionally rewrites working code because it "could be cleaner".
+     Reports welcome.
 
-- Prefer boring, proven tools over the newest framework.
-- Write code the next person can read without a walkthrough.
-- Small commits, clear names, tests where they pay for themselves.
-- Learn by building: most repos here are exercises, experiments, or course work.
+SEE ALSO
+     sourov.info(7), linkedin(1), youtube(1), mail(1)
+```
 
-## Contact
+[sourov.info](https://sourov.info) · [LinkedIn](https://www.linkedin.com/in/sourov-ahmad-50574120a/) · [YouTube](https://www.youtube.com/@airovs) · [Email](mailto:sourov.okk3@gmail.com)
 
-- Website: [sourov.info](https://sourov.info)
-- LinkedIn: [sourov-ahmad](https://www.linkedin.com/in/sourov-ahmad-50574120a/)
-- YouTube: [@airovs](https://www.youtube.com/@airovs)
-- Email: sourov.okk3@gmail.com
+Examples: [42 Piscine in C](https://github.com/Sourovahmad/exercies) · [signal-zero-app](https://github.com/Sourovahmad/signal-zero-app)
